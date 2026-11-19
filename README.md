@@ -1,0 +1,2 @@
+# badmatch
+Badminton pairing (TBD)
